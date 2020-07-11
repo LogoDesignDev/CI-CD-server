@@ -1,4 +1,4 @@
-# CI-server
+# CI-CD-server
 logoDesign项目CI/CD服务
 
 ## 文件说明
